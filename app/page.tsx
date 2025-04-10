@@ -1,4 +1,4 @@
-import { LearningPath } from "@/components/learning-path"
+ import { LearningPath } from "@/components/learning-path"
 import { PromotionCard } from "@/components/promotion-card"
 import { DailyQuests } from "@/components/daily-quests"
 import { LeaderboardTeaser } from "@/components/leaderboard-teaser"
